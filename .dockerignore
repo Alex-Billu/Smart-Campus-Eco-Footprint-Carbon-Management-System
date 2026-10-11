@@ -1,0 +1,9 @@
+.git
+.github
+.idea
+.vscode
+target
+apache-maven-3.9.8
+maven.zip
+dependency-reduced-pom.xml
+*.iml

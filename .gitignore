@@ -1,0 +1,7 @@
+target/
+dependency-reduced-pom.xml
+apache-maven-*/
+maven.zip
+.idea/
+*.iml
+.vscode/
